@@ -9,8 +9,8 @@ project(Catch2
 ###
 
 add_library(catch
-        include/catch.h
-        src/catch-main.cpp)
+        include/catch.hxx
+        src/catch-main.cxx)
 
 set_target_properties(catch PROPERTIES
         CXX_STANDARD            14
