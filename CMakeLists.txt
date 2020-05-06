@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.3)
 project(Catch2
-        VERSION 2020.1.0
+        VERSION 2020.1.1
         DESCRIPTION "A reusable main for Catch2"
         LANGUAGES CXX)
 
